@@ -46,3 +46,4 @@ function soma(a, b) {
 }
 
 soma(2, 3)(4)
+
